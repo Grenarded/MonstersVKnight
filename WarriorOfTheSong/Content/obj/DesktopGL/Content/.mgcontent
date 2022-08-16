@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Audio/Music/Arena0/Track01.mp3</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Audio/Music/Arena0/Track02.mp3</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Audio/Music/Arena0/Track03.mp3</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Fonts/HeadingFont.spritefont</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Fonts/MainFont.spritefont</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Fonts/TextFont.spritefont</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Backgrounds/Arena0Map.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Backgrounds/Instructions.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Backgrounds/MenuBackground.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Buttons/ButtonBack.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Buttons/ButtonExit.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Buttons/ButtonInstructions.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Buttons/ButtonLocked.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Buttons/ButtonMainMenu.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Buttons/ButtonPlay.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Buttons/ButtonPlayAgain.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Buttons/ButtonPlayArena.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Buttons/ButtonResume.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Sprites/BlueSlime.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Sprites/IconComingSoon.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Sprites/IconLock.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Sprites/KnightAttackDownSS.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Sprites/KnightAttackLeftSS.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Sprites/KnightAttackRightSS.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Sprites/KnightAttackUpSS.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Sprites/KnightIdleSS.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Sprites/KnightRunDownSS.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Sprites/KnightRunLeftSS.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Sprites/KnightRunRightSS.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Sprites/KnightRunUpSS.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Texts/Lose.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Texts/Title.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Texts/Win.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Tilesets/Fence0.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Tilesets/Fence1.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Tilesets/Fence2.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Tilesets/Fence3.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Tilesets/Grass.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Tilesets/Stone.png</File>
+    <File>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Images/Tilesets/Tree.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Fonts/SubHeadingFont.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

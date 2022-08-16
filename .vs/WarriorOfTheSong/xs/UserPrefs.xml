@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{D986CE2D-99AB-46D2-A3E8-672B302638CD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WarriorOfTheSong/Game1.cs">
+    <Files>
+      <File FileName="WarriorOfTheSong/Game1.cs" Line="830" Column="13" />
+      <File FileName="WarriorOfTheSong/Node.cs" />
+      <File FileName="WarriorOfTheSong/Enemy.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WarriorOfTheSong PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

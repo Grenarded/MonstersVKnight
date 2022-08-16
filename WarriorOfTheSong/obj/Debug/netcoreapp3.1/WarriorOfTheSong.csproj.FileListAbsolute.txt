@@ -1,0 +1,437 @@
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.deps.json
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.runtimeconfig.json
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.runtimeconfig.dev.json
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.dll
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.pdb
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Helper.dll
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.AssemblyReference.cache
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.AssemblyInfoInputs.cache
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.AssemblyInfo.cs
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.CoreCompileInputs.cache
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.CopyComplete
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.dll
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.pdb
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.genruntimeconfig.cache
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightIdleSS.xnb
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunLeftSS.xnb
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/test.xnb
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunDownSS.xnb
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunRightSS.xnb
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunUpSS.xnb
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackDownSS.xnb
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackLeftSS.xnb
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackRightSS.xnb
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackUpSS.xnb
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/TestEnemy.xnb
+/Users/benpetlach/Desktop/ICS3/Assignments/PASS3/WarriorOfTheSong/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/BlueSlime.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/test.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/TestEnemy.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/BlueSlime.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackDownSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackLeftSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackRightSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackUpSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightIdleSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunDownSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunLeftSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunRightSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunUpSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.deps.json
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.runtimeconfig.json
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.runtimeconfig.dev.json
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.pdb
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Helper.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.AssemblyReference.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.AssemblyInfoInputs.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.AssemblyInfo.cs
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.CoreCompileInputs.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.CopyComplete
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.pdb
+/Users/benpetlach/Desktop/WarriorOfTheSong-BackupJune1Final/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.genruntimeconfig.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/test.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/TestEnemy.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/BlueSlime.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackDownSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackLeftSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackRightSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackUpSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightIdleSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunDownSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunLeftSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunRightSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunUpSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.deps.json
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.runtimeconfig.json
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.runtimeconfig.dev.json
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.pdb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Helper.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.AssemblyReference.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.AssemblyInfoInputs.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.AssemblyInfo.cs
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.CoreCompileInputs.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.CopyComplete
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.pdb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.genruntimeconfig.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Empty.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NewPathTracing/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tile.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/test.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/TestEnemy.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Empty.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/BlueSlime.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackDownSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackLeftSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackRightSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackUpSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightIdleSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunDownSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunLeftSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunRightSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunUpSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tile.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.deps.json
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.runtimeconfig.json
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.runtimeconfig.dev.json
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.pdb
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Helper.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.AssemblyReference.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.AssemblyInfoInputs.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.AssemblyInfo.cs
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.CoreCompileInputs.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.CopyComplete
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.pdb
+/Users/benpetlach/Desktop/WarriorOfTheSong-CurrentWorkProj/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.genruntimeconfig.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/test.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/TestEnemy.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Empty.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/BlueSlime.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackDownSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackLeftSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackRightSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackUpSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightIdleSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunDownSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunLeftSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunRightSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunUpSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tile.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.deps.json
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.runtimeconfig.json
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.runtimeconfig.dev.json
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.pdb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Helper.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.AssemblyReference.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.AssemblyInfoInputs.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.AssemblyInfo.cs
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.CoreCompileInputs.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.CopyComplete
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.pdb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.genruntimeconfig.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/test.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/TestEnemy.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Empty.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/BlueSlime.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackDownSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackLeftSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackRightSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackUpSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightIdleSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunDownSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunLeftSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunRightSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunUpSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tile.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.deps.json
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.runtimeconfig.json
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.runtimeconfig.dev.json
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.pdb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Helper.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.AssemblyReference.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.AssemblyInfoInputs.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.AssemblyInfo.cs
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.CoreCompileInputs.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.CopyComplete
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.pdb
+/Users/benpetlach/Desktop/WarriorOfTheSong-June8 Experiment w Classes/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.genruntimeconfig.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/test.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/TestEnemy.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/BlueSlime.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackDownSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackLeftSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackRightSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackUpSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightIdleSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunDownSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunLeftSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunRightSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunUpSS.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.deps.json
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.runtimeconfig.json
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.runtimeconfig.dev.json
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.pdb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Helper.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.AssemblyReference.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.AssemblyInfoInputs.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.AssemblyInfo.cs
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.CoreCompileInputs.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.CopyComplete
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.dll
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.pdb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.genruntimeconfig.cache
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Grass.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Stone.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Tree.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Fence0.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Fence1.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Fence2.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Fence3.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Fonts/MainFont.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Fonts/HeadingFont.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Fonts/TextFont.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Texts/Title.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/MenuBackground.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonExit.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonInstructions.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonPlay.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonBack.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/Arena0Map.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/IconComingSoon.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/IconLock.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonLocked.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonPlayArena.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonMainMenu.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonResume.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonPlayAgain.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Texts/Lose.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Texts/Win.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Fonts/SubHeadingFont.xnb
+/Users/benpetlach/Desktop/WarriorOfTheSong-NEWCURRENTPROJECT 2/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/Instructions.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Fonts/MainFont.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/test.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/TestEnemy.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Fonts/HeadingFont.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Fonts/SubHeadingFont.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Fonts/TextFont.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/Arena0Map.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/Instructions.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/MenuBackground.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonBack.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonExit.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonInstructions.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonLocked.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonMainMenu.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonPlay.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonPlayAgain.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonPlayArena.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonResume.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/BlueSlime.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/IconComingSoon.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/IconLock.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackDownSS.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackLeftSS.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackRightSS.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackUpSS.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightIdleSS.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunDownSS.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunLeftSS.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunRightSS.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunUpSS.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Texts/Lose.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Texts/Title.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Texts/Win.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Fence0.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Fence1.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Fence2.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Fence3.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Grass.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Stone.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Tree.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.deps.json
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.runtimeconfig.json
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.runtimeconfig.dev.json
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.dll
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.pdb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Helper.dll
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.AssemblyReference.cache
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.AssemblyInfoInputs.cache
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.AssemblyInfo.cs
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.CoreCompileInputs.cache
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.CopyComplete
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.dll
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.pdb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.genruntimeconfig.cache
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Audio/Music/Arena0/Track01.ogg
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Audio/Music/Arena0/Track01.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Audio/Music/Arena0/Track02.ogg
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Audio/Music/Arena0/Track02.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Audio/Music/Arena0/Track03.ogg
+/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Audio/Music/Arena0/Track03.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Fonts/MainFont.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/test.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/TestEnemy.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Audio/Music/Arena0/Track01.ogg
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Audio/Music/Arena0/Track01.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Audio/Music/Arena0/Track02.ogg
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Audio/Music/Arena0/Track02.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Audio/Music/Arena0/Track03.ogg
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Audio/Music/Arena0/Track03.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Fonts/HeadingFont.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Fonts/SubHeadingFont.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Fonts/TextFont.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/Arena0Map.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/Instructions.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/MenuBackground.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonBack.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonExit.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonInstructions.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonLocked.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonMainMenu.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonPlay.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonPlayAgain.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonPlayArena.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Buttons/ButtonResume.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/BlueSlime.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/IconComingSoon.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/IconLock.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackDownSS.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackLeftSS.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackRightSS.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightAttackUpSS.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightIdleSS.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunDownSS.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunLeftSS.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunRightSS.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Sprites/KnightRunUpSS.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Texts/Lose.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Texts/Title.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Texts/Win.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Fence0.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Fence1.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Fence2.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Fence3.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Grass.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Stone.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Content/Images/Tilesets/Tree.xnb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.deps.json
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.runtimeconfig.json
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.runtimeconfig.dev.json
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.dll
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/WarriorOfTheSong.pdb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/bin/Debug/netcoreapp3.1/Helper.dll
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.AssemblyReference.cache
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.AssemblyInfoInputs.cache
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.AssemblyInfo.cs
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.CoreCompileInputs.cache
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.csproj.CopyComplete
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.dll
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.pdb
+/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/obj/Debug/netcoreapp3.1/WarriorOfTheSong.genruntimeconfig.cache

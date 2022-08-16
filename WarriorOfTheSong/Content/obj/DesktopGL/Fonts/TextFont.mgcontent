@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/Content/Fonts/TextFont.spritefont</SourceFile>
+  <SourceTime>2022-06-18T15:25:31.7364213-04:00</SourceTime>
+  <DestFile>/Users/benpetlach/Desktop/MonstersVKnight-w-Music/WarriorOfTheSong/Content/bin/DesktopGL/Fonts/TextFont.xnb</DestFile>
+  <DestTime>2022-06-22T17:17:45.5735322-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:14-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:14-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

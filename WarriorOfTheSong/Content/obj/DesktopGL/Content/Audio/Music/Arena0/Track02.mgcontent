@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/Audio/Music/Arena0/Track02.mp3</SourceFile>
+  <SourceTime>2022-06-27T01:15:22.0276017-04:00</SourceTime>
+  <DestFile>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/bin/DesktopGL/Content/Audio/Music/Arena0/Track02.xnb</DestFile>
+  <DestTime>2022-06-27T01:20:34.0920386-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T16:17:54-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>/Users/benpetlach/Desktop/MonstersVKnight-FIXED/WarriorOfTheSong/Content/bin/DesktopGL/Content/Audio/Music/Arena0/Track02.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
